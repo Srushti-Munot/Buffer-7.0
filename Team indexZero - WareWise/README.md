@@ -110,4 +110,9 @@ Manages inventory and orders across multiple warehouse locations:
 
 ---
 
+video link : https://drive.google.com/drive/folders/1V8yQV51CkTKeAqJWeD6Qm_03aUXmkwzQ?usp=sharing
+
 *Built for competition — every data structure choice is deliberate and optimized for the operation it serves.*
+
+
+
